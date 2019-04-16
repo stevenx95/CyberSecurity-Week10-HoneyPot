@@ -13,17 +13,18 @@
 ## Summary of data collected:
 
   1) Dionaea:
-     - Number of attacks: 
-     - Number of malware samples:
+     - Number of attacks:4336 
 
   2) p0f:
-     - Number of attacks: 
-     - Number of malware samples:
+     - Number of attacks: 1116
      
   3) shockpot:
-     - Number of attacks: 
-     - Number of malware samples:
+     - Number of attacks: 0
 
 ## Any unresolved questions raised by the data collected:
 
   - No questions.
+  
+  
+![](Sensors.JPG)
+![](Attacks.JPG)
