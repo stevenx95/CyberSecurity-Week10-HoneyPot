@@ -26,5 +26,5 @@
   - No questions.
   
   
-![](Sensors.JPG)
-![](Attacks.JPG)
+![](Sensors.jpg)
+![](Attacks.jpg)
