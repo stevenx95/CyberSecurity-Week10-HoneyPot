@@ -26,6 +26,6 @@
   - No questions.
   
   
-![ScreenShot](Sensors.JPG)
-![ScreenShot](Attacks.JPG)
+![](Sensors)
+![](Attacks)
 
